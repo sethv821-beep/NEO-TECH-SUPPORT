@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neo-tech-support.netlify.app/sitemap.xml
